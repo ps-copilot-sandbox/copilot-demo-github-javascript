@@ -14,7 +14,7 @@ Although you can use any supported editor for Copilot like Visual Studio Code, V
 
 Welcome! In this starting Copilot demo for **Getting started - Javascript Calculator - Visual Studio Code**, we will create a Calculator very quickly and iterate over this application with a few additional prompts.
 
-![Let's Begin!](./images/jetpack.png)
+![Let's Begin!](/images/jetpack.png)
 
 ### Step 1: Open Visual Studio Code and open GitHub Copilot Chat
 
