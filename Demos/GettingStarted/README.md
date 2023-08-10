@@ -18,4 +18,23 @@ Welcome! In this starting Copilot demo for **Getting started - Javascript Calcul
 
 ### Step 1: Open Visual Studio Code and open GitHub Copilot Chat
 
-Open Visual Studio Code and navigate to primary location of your GitHub Copilot chat, by default it is on the right. Make sure that your GitHub Copilot is enabled and tuned on. 
+Open Visual Studio Code and navigate to primary location of your GitHub Copilot chat, by default it is on the right but you may have moved it somewhere else. Make sure that your GitHub Copilot is enabled and turned on. 
+![Let's Setup!](/images/Where.png)
+
+Your Visual Studio Code should look like this. We are now ready to write some code through GitHub Copilot.
+![Ready!](/images/chat.png)
+
+### Step 2: Ask GitHub Copilot Chat for assistance
+
+Open Visual 
+
+### Step 3: Let's run it and see what happens
+
+Open Visual 
+
+### Step 4: Further Iterations
+
+Open Visual 
+
+### Troubleshooting
+There may be times where the calculator app does not work for a handful of reasons. Please review the below recommendations and hopefully it can unblock you:
