@@ -1,6 +1,6 @@
 # Copilot Demos for Javascript developers
 
-![Javascript Icon](./images/javascript.jpg)
+![Javascript Icon](./images/javascriptlogo-2.jpg)
 
 This contains a collection of demos for Copilot for the Javascript programming language. This is going to be useful for customers who are interested in using Javascript development with Copilot.
 
