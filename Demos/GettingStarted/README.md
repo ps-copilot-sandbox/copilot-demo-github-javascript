@@ -26,15 +26,37 @@ Your Visual Studio Code should look like this. We are now ready to write some co
 
 ### Step 2: Ask GitHub Copilot Chat for assistance
 
-Open Visual 
+In the GitHub Copilot Chat text box, provide the following prompt to ilicit the help from GitHub Copilot ```Can you give me the code for a standard calculator written in Javascript?```. As you can see below, Copilot Chat will provide the code for you to text in the chat. 
+
+![Copilot Creation!](/images/create.png)
+
+You have 2 options of getting the code into your project. 
+
+#### Option 1:
+By clicking on the code that was generated and hovering over the top right corner, you can press the copy button to add it to your clipboard for easy pasting. Simply create the type of file you need to work with in your project and paste the generated code there.  
+
+![Copy](/images/copy.png)
+
+For this example, if we chose Option 1 we would need to create 3 files, calculator.html, calculator.js, and calculator.css. We would then paste the 3 respective generated pieces of code frmo GitHub Copilot Chat into each of the files. 
+
+#### Option 2:
+If you select Option 2, click into the code that was generated and hover over the top right corner once more. This time press the middle button labaled ```Insert at cursor```. This pastes the generated code into whatever file was open in your project at your mouse's location.
+
+![Insert](/images/insert.png)
 
 ### Step 3: Let's run it and see what happens
 
-Open Visual 
+Open your local directory and locate the project that you are working out of. 
+
+![Local](/images/local.png)
+
+Double click on the ```calculator.html``` file and allow it to open in your current browser.
+
+![Working](/images/working.png)
 
 ### Step 4: Further Iterations
 
-Open Visual 
+Now that you have a working version of the Application. Feel free to iterate on it with any prompt that would like. We have added a few below to provide some inspiration as to what is possible with Copilot.
 
 ### Troubleshooting
 There may be times where the calculator app does not work for a handful of reasons. Please review the below recommendations and hopefully it can unblock you:
