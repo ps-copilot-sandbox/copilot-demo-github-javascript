@@ -22,7 +22,7 @@ Open Visual Studio Code and navigate to primary location of your GitHub Copilot 
 ![Let's Setup!](/images/Where.png)
 
 Your Visual Studio Code should look like this. We are now ready to write some code through GitHub Copilot.
-![Ready!](/images/chat.png)
+![Ready!](/images/Chat.png)
 
 ### Step 2: Ask GitHub Copilot Chat for assistance
 
