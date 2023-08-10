@@ -52,11 +52,22 @@ Open your local directory and locate the project that you are working out of.
 
 Double click on the ```calculator.html``` file and allow it to open in your current browser.
 
+![Setup](/images/setup.png)
+
+Enter in a few numbers and perform an operation. For this example we will do 2 multiplied by 4 and are expecting 8.
+
 ![Working](/images/working.png)
 
 ### Step 4: Further Iterations
 
 Now that you have a working version of the Application. Feel free to iterate on it with any prompt that would like. We have added a few below to provide some inspiration as to what is possible with Copilot.
+
+"Copilot, can we make it prettier?"
+
+"Copilot, can we add additional operations?"
+
+And my personal favorite, which will be our next lesson:
+"Copilot, can you show me how to add unit tests to this application?"
 
 ### Troubleshooting
 There may be times where the calculator app does not work for a handful of reasons. Please review the below recommendations and hopefully it can unblock you:
