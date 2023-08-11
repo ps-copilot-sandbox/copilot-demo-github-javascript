@@ -1,14 +1,12 @@
 # Copilot Calculator Demo
 
 The workshop uses **Copilot** & **Copilot Chat** features to complete the solution.
-
-
-<img width="48px" src="images/copilot.png">
-<img width="48px" src="images/copilot-chat.png">
+f
 <br><br>
 
-![](images/control-key.png)
-![](images/return-key.png)
+![cc](images/copilot-and-chat.png)
+
+<br><br>
 
 Pre-Requisits
 
@@ -26,9 +24,9 @@ touch test/calculator.test.js
 
 ---
 
-## Write the `calculator.js` file
+## 1. Write the `calculator.js` file
 
-### 1. Open the `calculator.js` file and add this description.
+### 1.1 Open the `calculator.js` file and add this description.
 
 ```node
 /**
@@ -45,6 +43,8 @@ touch test/calculator.test.js
  */
 ```
 
+---
+
 ### 1.2 Open the Copilot code suggestion tab
 
 <img width="48px" src="images/copilot.png"> 
@@ -56,10 +56,14 @@ Choose any of the suggested code samples and press `Accept Solution`, this will 
 
 ---
 
+### 1.3 Last step, have a look at the generated code.
 
-## Write the `index.js` file
+---
 
-### 2. Open the `index.js` file and add the description
+
+## 2. Write the `index.js` file
+
+### 2.1 Open the `index.js` file and add the description
 
 ```node
 /**
@@ -77,7 +81,7 @@ Choose any of the suggested code samples and press `Accept Solution`, this will 
  */
  ```
 
-### 2.1 Ask Copilot Chat for help
+### 2.2 Ask Copilot Chat for help
 <img width="48px" src="images/copilot-chat.png">
 
 ```
@@ -88,7 +92,7 @@ Copy the suggested solution into the `index.js` file.
 
 ---
 
-## Test the solution
+## 3. Test the solution
 
 ### 4. Run the program
 ```node
