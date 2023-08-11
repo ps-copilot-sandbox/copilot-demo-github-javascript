@@ -1,7 +1,7 @@
 # Copilot Calculator Demo
 
 The workshop uses **Copilot** & **Copilot Chat** features to complete the solution.
-f
+
 <br><br>
 
 ![cc](images/copilot-and-chat.png)

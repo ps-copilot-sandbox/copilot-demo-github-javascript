@@ -6,8 +6,10 @@
 
 <br><br>
 
-This Repository provides Copilot Javascript (NodeJS) demos & workshops for developers.
+This Repository provides Copilot Javascript (NodeJS) **demos & workshops** for developers.
 
-- **Demos** can be used for training classes and live walkthrough exercises. They provide the steps to interactive with Copilot.
+- **Demos** are the guided approach for training classes and live walkthrough exercises. 
 
-- **Workshops**
+- **Workshops** are the self-guided approach to learning exercises with Copilot. 
+
+Both contain the necessary steps to complete the exercise. 
