@@ -1,0 +1,164 @@
+{
+    "numFailedTestSuites": 0,
+    "numFailedTests": 0,
+    "numPassedTestSuites": 1,
+    "numPassedTests": 8,
+    "numPendingTestSuites": 0,
+    "numPendingTests": 0,
+    "numRuntimeErrorTestSuites": 0,
+    "numTodoTests": 0,
+    "numTotalTestSuites": 1,
+    "numTotalTests": 8,
+    "openHandles": [],
+    "snapshot": {
+        "added": 0,
+        "didUpdate": false,
+        "failure": false,
+        "filesAdded": 0,
+        "filesRemoved": 0,
+        "filesRemovedList": [],
+        "filesUnmatched": 0,
+        "filesUpdated": 0,
+        "matched": 0,
+        "total": 0,
+        "unchecked": 0,
+        "uncheckedKeysByFile": [],
+        "unmatched": 0,
+        "updated": 0
+    },
+    "startTime": 1691717385266,
+    "success": true,
+    "testResults": [
+        {
+            "assertionResults": [
+                {
+                    "ancestorTitles": [
+                        "calculator"
+                    ],
+                    "duration": 2,
+                    "failureDetails": [],
+                    "failureMessages": [],
+                    "fullName": "calculator should add two numbers",
+                    "invocations": 1,
+                    "location": null,
+                    "numPassingAsserts": 1,
+                    "retryReasons": [],
+                    "status": "passed",
+                    "title": "should add two numbers"
+                },
+                {
+                    "ancestorTitles": [
+                        "calculator"
+                    ],
+                    "duration": 0,
+                    "failureDetails": [],
+                    "failureMessages": [],
+                    "fullName": "calculator should subtract two numbers",
+                    "invocations": 1,
+                    "location": null,
+                    "numPassingAsserts": 1,
+                    "retryReasons": [],
+                    "status": "passed",
+                    "title": "should subtract two numbers"
+                },
+                {
+                    "ancestorTitles": [
+                        "calculator"
+                    ],
+                    "duration": 1,
+                    "failureDetails": [],
+                    "failureMessages": [],
+                    "fullName": "calculator should multiply two numbers",
+                    "invocations": 1,
+                    "location": null,
+                    "numPassingAsserts": 1,
+                    "retryReasons": [],
+                    "status": "passed",
+                    "title": "should multiply two numbers"
+                },
+                {
+                    "ancestorTitles": [
+                        "calculator"
+                    ],
+                    "duration": 1,
+                    "failureDetails": [],
+                    "failureMessages": [],
+                    "fullName": "calculator should multiply two numbers",
+                    "invocations": 1,
+                    "location": null,
+                    "numPassingAsserts": 1,
+                    "retryReasons": [],
+                    "status": "passed",
+                    "title": "should multiply two numbers"
+                },
+                {
+                    "ancestorTitles": [
+                        "calculator"
+                    ],
+                    "duration": 1,
+                    "failureDetails": [],
+                    "failureMessages": [],
+                    "fullName": "calculator should multiply two numbers",
+                    "invocations": 1,
+                    "location": null,
+                    "numPassingAsserts": 1,
+                    "retryReasons": [],
+                    "status": "passed",
+                    "title": "should multiply two numbers"
+                },
+                {
+                    "ancestorTitles": [
+                        "calculator"
+                    ],
+                    "duration": 0,
+                    "failureDetails": [],
+                    "failureMessages": [],
+                    "fullName": "calculator should divide two numbers",
+                    "invocations": 1,
+                    "location": null,
+                    "numPassingAsserts": 1,
+                    "retryReasons": [],
+                    "status": "passed",
+                    "title": "should divide two numbers"
+                },
+                {
+                    "ancestorTitles": [
+                        "calculator"
+                    ],
+                    "duration": 8,
+                    "failureDetails": [],
+                    "failureMessages": [],
+                    "fullName": "calculator should throw an error for an invalid operator",
+                    "invocations": 1,
+                    "location": null,
+                    "numPassingAsserts": 1,
+                    "retryReasons": [],
+                    "status": "passed",
+                    "title": "should throw an error for an invalid operator"
+                },
+                {
+                    "ancestorTitles": [
+                        "calculator"
+                    ],
+                    "duration": 1,
+                    "failureDetails": [],
+                    "failureMessages": [],
+                    "fullName": "calculator should throw an error for division by zero",
+                    "invocations": 1,
+                    "location": null,
+                    "numPassingAsserts": 1,
+                    "retryReasons": [],
+                    "status": "passed",
+                    "title": "should throw an error for division by zero"
+                }
+            ],
+            "endTime": 1691717385558,
+            "message": "",
+            "name": "/Users/jefeish/projects/copilot-demo-github-javascript/demos/calculator/solution/tests/calculator.test.js",
+            "startTime": 1691717385307,
+            "status": "passed",
+            "summary": ""
+        }
+    ],
+    "wasInterrupted": false
+}
