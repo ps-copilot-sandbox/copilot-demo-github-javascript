@@ -1,0 +1,24 @@
+{
+  "name": "copilot-calculator",
+  "version": "1.0.0",
+  "description": "a copilot created calculator Node app",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "bin": {
+    "calculator": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --json --outputFile=test-results/results.json"
+  },
+  "author": "jefeish",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.2"
+  },
+  "devDependencies": {
+    "jest-junit": "^16.0.0"
+  }
+}
