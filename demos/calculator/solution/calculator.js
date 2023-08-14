@@ -11,27 +11,26 @@
  * @returns {number} result of the operation
  */
 
-function calculator(num1, num2, operator) {
-    var result = 0;
+// the calculator function
+const calculator = (num1, num2, operator) => {
     if (operator === '+') {
-        result = num1 + num2;
+        return num1 + num2;
     } else if (operator === '-') {
-        result = num1 - num2;
+        return num1 - num2;
     } else if (operator === '*') {
-        result = num1 * num2;
+        return num1 * num2;
     } else if (operator === '%') {
-        result = num1 % num2;
-    } else if (operator === '**') {
-        result = num1 ** num2;
-    } else if (operator === '/') {
-        if (num2 === 0) {
-            throw new Error('Division by zero');
-        }
-        result = num1 / num2;
+        return num1 % num2;
+    } else if (operator === '^') {
+        return num1 ** num2;
+    } else if (operator === '/' && num2 !== 0) {
+        return num1 / num2;
+    } else if (num2 === 0 && operator === '/'){
+        throw new Error('Division by zero');
     } else {
         throw new Error('Invalid operator');
     }
-    return result;
 }
 
+// export the calculator function
 module.exports = calculator;

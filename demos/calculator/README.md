@@ -92,9 +92,8 @@ Copy the suggested solution into the `index.js` file.
 
 ---
 
-## 3. Test the solution
+### 3. Run the program
 
-### 4. Run the program
 ```node
 node index.js
 ```
@@ -103,7 +102,7 @@ or
 node index.js 2 + 3
 ```
 
-### 4.1 Fix any errors that come up
+### 3.1 Fix any errors that come up
 
 Type any error in to Copilot-Chat and ask for a fix.
 
@@ -112,13 +111,22 @@ Type any error in to Copilot-Chat and ask for a fix.
 ```
 ...
 ```
+
 ---
 
-## Create unit tests
+## 4. Test the solution
 
-### 5. Open the `test/calculator.test.js` file
+| This section is open to your imagination, try to "challange" the code
 
-### 5.1 Ask Copilot Chat for help
+...
+
+---
+
+## 5. Create unit tests
+
+### 5.1 Open the `test/calculator.test.js` file
+
+### 5.2 Ask Copilot Chat for help
 
 <img width="48px" src="images/copilot-chat.png">
 
@@ -126,9 +134,9 @@ Type any error in to Copilot-Chat and ask for a fix.
 give me a sample unit test for the calculator module.
 ```
 
-### 5.2 Copy the suggested code to the file
+### 5.3 Copy the suggested code to the file
 
-### 5.3 Ask Copilot Chat for help
+### 5.4 Ask Copilot Chat for help
 
 <img width="48px" src="images/copilot-chat.png">
 
@@ -142,3 +150,7 @@ how can I invoke the unit test ?
 ```
 how can I create jest json output ?
 ```
+
+## "Extra Credit"
+
+- Use the Unit test results to create a README [Badge](https://shields.io)

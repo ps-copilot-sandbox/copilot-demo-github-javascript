@@ -1,10 +1,13 @@
 {
   "name": "copilot-calculator",
   "version": "1.0.0",
-  "description": "a coplito created calculator Node app",
+  "description": "a copilot created calculator Node app",
   "main": "index.js",
   "directories": {
     "test": "tests"
+  },
+  "bin": {
+    "calculator": "./index.js"
   },
   "scripts": {
     "start": "node index.js",
