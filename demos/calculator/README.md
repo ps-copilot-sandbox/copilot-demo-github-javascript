@@ -92,7 +92,7 @@ Copy the suggested solution into the `index.js` file.
 
 ---
 
-### 3. Run the program
+## 3. Run the program
 
 ```node
 node index.js
