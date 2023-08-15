@@ -60,14 +60,18 @@ Enter in a few numbers and perform an operation. For this example we will do 2 m
 
 ### Step 4: Further Iterations
 
-Now that you have a working version of the Application. Feel free to iterate on it with any prompt that would like. We have added a few below to provide some inspiration as to what is possible with Copilot.
+Now that you have a working version of the Application. Feel free to iterate on it with any prompt that you would like. We have added a few below to provide some inspiration as to what is possible with Copilot.
 
-"Copilot, can we make it prettier?"
+> "Copilot, can we make it prettier?"
 
-"Copilot, can we add additional operations?"
+> "Copilot, can we add additional operations?"
 
 And my personal favorite, which will be our next lesson:
-"Copilot, can you show me how to add unit tests to this application?"
+> "Copilot, can you show me how to add unit tests to this application?"
 
 ### Troubleshooting
 There may be times where the calculator app does not work for a handful of reasons. Please review the below recommendations and hopefully it can unblock you:
+
+- Often for this example, if copilot created 3 seperate files for the html, css, and javascript, theres a chance it places the source to the javascript file in the wrong location.
+
+- If the application refreshes and does not calculate when pressing the calculate button, your best bet is to restart the prompt and ask it in entirely new verbiage for the same thing. Try to change as many words as possible in the prompt in an attempt to populate new code.
