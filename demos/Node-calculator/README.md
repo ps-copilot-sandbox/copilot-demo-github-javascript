@@ -10,7 +10,7 @@ A small demo project to exercise the basic capabilities of Copilot in ***Visual 
 
 <img width="50%" src="images/copilot-and-chat.png">
 
-correctly installed in Visual Studio Code
+...correctly installed in Visual Studio Code
 
 ----
 
