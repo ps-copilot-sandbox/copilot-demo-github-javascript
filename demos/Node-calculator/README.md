@@ -1,20 +1,27 @@
 # Copilot Calculator Demo
 
-The workshop uses **Copilot** & **Copilot Chat** features to complete the solution.
+A small demo project to exercise the basic capabilities of Copilot in ***Visual Studio Code***. In this demo you should create a Node based calculator Module that you can access from the command-line via an `index.js` entry-point. We use copilot/chat to help us with the content creation of the `calculator.js`, `index,js` and some Node packaging settings. Enjoy !
 
-<br><br>
+>Note: The demo/workshop uses **Copilot** & **Copilot Chat** features to complete the solution.
 
-![cc](images/copilot-and-chat.png)
+## Pre-Requisits
 
-<br><br>
+- Make sure to have...
 
-Pre-Requisits
+<img width="50%" src="images/copilot-and-chat.png">
 
+correctly installed in Visual Studio Code
+
+----
+
+- create a project foilder (eg.: `myCalulator/`)
 - initialize the npm project (create package.json)
 - create an `index.js` file
 - create a `calculator.js` file 
 
 ```
+mkdir myCalculator
+cd myCalculator
 npm init
 touch index.js
 touch calculator.js
