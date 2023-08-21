@@ -14,7 +14,7 @@ A small demo project to exercise the basic capabilities of Copilot in ***Visual 
 
 ----
 
-- create a project foilder (eg.: `myCalulator/`)
+- create a project folder (eg.: `myCalulator/`)
 - initialize the npm project (create package.json)
 - create an `index.js` file
 - create a `calculator.js` file 
