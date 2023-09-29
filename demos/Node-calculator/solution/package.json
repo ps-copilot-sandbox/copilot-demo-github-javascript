@@ -16,6 +16,7 @@
   "author": "jefeish",
   "license": "ISC",
   "dependencies": {
+    "calculator": "^0.1.12",
     "jest": "^29.6.2"
   },
   "devDependencies": {
