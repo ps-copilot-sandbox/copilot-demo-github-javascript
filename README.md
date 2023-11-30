@@ -12,4 +12,13 @@ This Repository provides Copilot Javascript (NodeJS) **demos & workshops** for d
 
 - **Workshops** are the self-guided approach to learning exercises with Copilot. 
 
-Both contain the necessary steps to complete the exercise. 
+Both contain the necessary steps to complete the exercise.
+
+## Demos
+
+| Demo | Description |
+| --- | --- |
+| [Simple Javascript Calculator](demos/Javascript-calculator) | A simple calculator that adds two numbers together |
+| [Node Calculator](demos/Node-calculator) | A simple calculator that adds two numbers together |
+| [NodeJS app that runs shell commands](demos/Command-Execution-WebpApp-NodeJS) | A NodeJS webapp that runs shell commands |
+
