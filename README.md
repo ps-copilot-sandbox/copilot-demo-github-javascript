@@ -20,5 +20,5 @@ Both contain the necessary steps to complete the exercise.
 | --- | --- |
 | [Simple Javascript Calculator](demos/Javascript-calculator) | A simple calculator that adds two numbers together |
 | [Node Calculator](demos/Node-calculator) | A simple calculator that adds two numbers together |
-| [NodeJS app that runs shell commands](demos/Command-Execution-WebpApp-NodeJS) | A NodeJS webapp that runs shell commands |
+| [NodeJS app that runs shell commands](demos/Command-Execution-WebApp-NodeJS) | A NodeJS webapp that runs shell commands |
 
