@@ -4,7 +4,7 @@ This is a simple NodeJS application that executes shell commands in a browser us
 
 ## Prerequisites
 
-- [NodeJS](https://nodejs.org/en/download/) with NPM installed
+- [NodeJS](https://nodejs.org/en/download/) with NPM installed. NodeJS version should not matter as there, but NodeJS version I tested was `v20.8.0` and NPM version was `10.1.0`
 - GitHub Account with proper GitHub license with GitHub Chat enabled
 - [VS Code](https://code.visualstudio.com/download) installed
 - GitHub Copilot extension installed in VS Code
