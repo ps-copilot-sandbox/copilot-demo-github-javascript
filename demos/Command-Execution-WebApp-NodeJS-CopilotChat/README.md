@@ -10,13 +10,13 @@ This is a simple NodeJS application that executes shell commands in a browser us
 - GitHub Copilot extension installed in VS Code
 - GitHub Copilot Chat extension installed in VS Code
 
-## Step-by-step guides
+## Step-by-step guide
 
 Please follow the instruction below.
 
 ### Step 1: Make sure that all prerequisites are met
 
-Make sure that you met all prerequisites are met :) 
+Make sure that you met all prerequisites above.
 
 ### Step 2: Open Visual Studio Code with GitHub Copilot Chat
 
