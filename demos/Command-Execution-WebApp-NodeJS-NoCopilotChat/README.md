@@ -2,18 +2,18 @@
 
 This is a simple NodeJS application that executes shell commands in a browser using **Github Copilot**. Please follow instructions below to build and run the application. This demo will not use **Github Copilot Chat**. 
 
-> This demo is specifically made for customers who did not turn on Copilot Chat. Please [use other demo](../Command-Execution-WebApp-NodeJS-CopilotChat) as if customers can use Copilot Chat.
+> This demo is specifically made for customers who have not enabled Copilot Chat. Please [use the other demo](../Command-Execution-WebApp-NodeJS-CopilotChat) if customers have enabled Copilot Chat.
 
-It is possible to use other Interative Development Editor (IDEs) that support GitHub Copilot, but it is easier to follow and better experience to use VS Code.
+It is possible to use other Interactive Development Editors (IDEs) that support GitHub Copilot, but it is easier to follow and better experience to use VS Code.
 
 ## Prerequisites
 
 - [NodeJS](https://nodejs.org/en/download/) with NPM installed. NodeJS version should not matter as there, but NodeJS version I tested was `v20.8.0` and NPM version was `10.1.0`
-- GitHub Account with proper GitHub license
+- GitHub Account with a Copilot seat applied
 - [VS Code](https://code.visualstudio.com/download) installed
 - GitHub Copilot extension installed in VS Code
 
-In addition, this demo, compared other one using GitHub Copilot Chat, requires quite a knowledge of NodeJS, HTML, and Javascript as it requires to know what is right or wrong. Also, note that refactoring capability is limited as only way to improve the code is by rewriting comment or providing an accurate context.
+In addition, this demo, compared to the alternative demo that uses GitHub Copilot Chat, requires quite a bit of knowledge around NodeJS, HTML, and Javascript, as it requires that you know how to get started. Also, note that refactoring capability is limited as the only way to improve the code is by rewriting comments or providing an accurate context.
 
 ## Step-by-step guide
 
@@ -21,11 +21,11 @@ Please follow the instruction below.
 
 ### Step 1: Make sure that all prerequisites are met
 
-Make sure that you met all prerequisites above.
+Make sure that you meet all prerequisites above.
 
 ### Step 2: Starting with a NodeJS project
 
-Let's start with a very simple step to create a NodeJS project. Open your **Visual Studio Code** and create a new folder if you have not. Create a file called `index.js`, and type in the following command as a Javascript comment.
+Let's start with a very simple step to create a NodeJS project. Open **Visual Studio Code** and create a new folder if you have not. Create a file called `index.js`, and type in the following command as a Javascript comment.
 
 `// NodeJS project that can run shell command and display result in a web page`
 
@@ -33,7 +33,7 @@ Hit **Tab** button to accept the suggestion. You can also toggle through suggest
 
 If you keep typing, you will see GitHub Copilot makes suggestions line by line as shown below. It can sometimes make a block suggestion.
 
-> Note that GitHub Copilot is highly generative in nature. Thus, note that the result you get will not liekly be same as mine.
+> Note that GitHub Copilot is highly generative in nature. Thus, note that the result you get will not likely be the exact same.
 
 ![First comment entry](./images/1_TypingAndSuggesting.gif)
 
@@ -49,7 +49,7 @@ To do that, press `^ + Return` on a Mac keyboard or `Ctrl + Enter` on Windows to
 
 Sometimes, you will get all 10 suggestions. Othertimes, you will get less than that. Scroll to see what codes look right to you. And even these suggestions are not same all the time because Copilot is generative in nature. For me, I want a NodeJS logic that can run shell commands and display result in a web page. So, I will find one that opens port and listens to it, then displays the webpage in public as a static file.
 
-Click **Accept Solution** link right above the suggestion block that you wants to apply.
+Click **Accept Solution** link right above the suggestion block that you want to apply.
 
 ### Step 3: Understand the generated code and refactor
 
@@ -79,7 +79,7 @@ Type more contents such as setting title and adding a button where we can execut
 
 ![Adding HTML content](./images/5_TypeHTML.gif)
 
-### Step 5: Make a test run, observe it fails, then fix by adding dependency
+### Step 5: Make a test run, observe it fail, then fix by adding dependency
 
 Let's try to test our website! You can open a separate **console** window to run it, but I will try to use built-in Terminal inside **Visual Studio Code.**
 
