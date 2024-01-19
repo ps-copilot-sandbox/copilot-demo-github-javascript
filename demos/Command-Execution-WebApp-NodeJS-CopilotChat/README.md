@@ -1,6 +1,6 @@
 # How to build a fun NodeJS application that executes shell commands in a browser - Copilot Chat version
 
-This is a simple NodeJS application that executes shell commands in a browser using **Github Copilot**. Please follow instructions below to build and run the application. This demo will primarily drive using **Github Copilot Chat** to build the application. It is possible to use other Interative Development Editor (IDEs) that support GitHub Copilot and GitHub Copilot Chat, but it is easier to follow and better experience to use VS Code.
+This is a simple NodeJS application that executes shell commands in a browser using **Github Copilot**. Please follow instructions below to build and run the application. This demo will primarily drive using **Github Copilot Chat** to build the application. It is possible to use other Integrated Development Environment (IDEs) that support GitHub Copilot and GitHub Copilot Chat, but it is easier to follow and better experience to use VS Code.
 
 ## Prerequisites
 
