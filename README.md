@@ -15,14 +15,15 @@ Both contain the necessary steps to complete the exercise.
 
 ## Demos
 
-| Demo | Description | Level |
-| --- | --- | --- |
-| [Simple Javascript Calculator](demos/Javascript-calculator) | A simple calculator that adds two numbers together | Easy | 
-| [Node Calculator](demos/Node-calculator) | A simple calculator that adds two numbers together | Easy |
-| [NodeJS WebApp](demos/NodeJS-WebApp-Simple) | A simple NodeJS webapp that uses ExpressJS to serve a simple HTML page | Easy |
-| [NodeJS app that runs shell commands](demos/Command-Execution-WebApp-NodeJS) | A NodeJS webapp that runs shell commands | Medium |
+| Demo | Description |
+| --- | --- |
+| [Simple Javascript Calculator](demos/Javascript-calculator) | A simple calculator that adds two numbers together |
+| [Node Calculator](demos/Node-calculator) | A simple calculator that adds two numbers together |
+| [NodeJS app that runs shell commands with Copilot Chat](demos/Command-Execution-WebApp-NodeJS) | A NodeJS webapp that runs shell commands with Copilot Chat |
+| [NodeJS app that runs shell commands without Copilot Chat](demos/Command-Execution-WebApp-NodeJS) | A NodeJS webapp that runs shell commands without Copilot Chat. Use this for customer `who does not want to use Copilot Chat or cannot` |
 
 ## Contribution
 
 Do you want to contribute to the project? That is great! Please read [**CONTRIBUTING.md**](CONTRIBUTING.md) guide to make the contribution to this repository.
+
 
